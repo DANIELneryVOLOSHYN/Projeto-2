@@ -1,4 +1,3 @@
-/* Estilização Geral do Corpo */
 body {
     background-color: #121224;
     color: #e0e0e0;
@@ -65,7 +64,7 @@ li {
     margin-bottom: 10px;
 }
 
-/* Imagem e Links (Corrigido o max-width) */
+/* Imagem e Links */
 img {
     max-width: 650px;
     width: 90%;
@@ -113,16 +112,15 @@ tr:nth-child(even) {
 }
 
 /* 
-==================================================
+
 MECANISMO DE AVALIAÇÃO METACOGNITIVA
-==================================================
 
 1. Desafio Técnico:
-A maior dificuldade foi incorporar o elemento de vídeo e garantir que ele ficasse responsivo e alinhado com o restante design. Resolvi testando propriedades de largura (width: 100%) e limites máximos no CSS para manter a proporção correta no navegador.
+Para mim a regra mais CSS mais difícil de aplicar foi ir aprendendo os códigos que até agora ainda nao conseguir bem decorar todos, nem perceber completamente mas ao pesquisar fui conseguindo fazer e aprender coisas novas que deixavam o site mais atrativo.
 
 2. Correção de Sintaxe:
-O erro mais recorrente foi a falta de pontos e vírgulas (;) no encerramento das regras CSS e a omissão de aspas em atributos HTML. Identifiquei essas falhas através da ferramenta de inspeção do Chrome (F12) e corrigi-as no editor de código.
+O meu erro mais comum foi a introdução das imagens, porque ou não estavam no formato correto ou não tinha de ir fazendo várias tentativas até conseguir introduzir a imagem, o que com o vídeo por acaso foi mais facilitado.
 
 3. Autoria:
-O atributo "src" (abreviatura de "source") define o caminho e o nome do ficheiro (de imagem ou vídeo) que o navegador deve procurar na pasta para apresentar na página web.
+O atributo "src" (abreviatura de "source") define o caminho e o nome do ficheiro (de imagem ou vídeo) que o navegador deve procurar na pasta do projeto para apresentar na página web.
 */
