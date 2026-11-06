@@ -21,7 +21,7 @@ h2 {
     margin-top: 30px;
 }
 
-/* Classe de Destaque para Parágrafo */
+/* Parágrafo */
 .destaque {
     background-color: #1f4068;
     color: #ffffff;
@@ -33,7 +33,7 @@ h2 {
     line-height: 1.5;
 }
 
-/* Estilização do Vídeo */
+/* Vídeo */
 .caixa-video {
     margin: 25px auto;
     max-width: 650px;
@@ -47,7 +47,7 @@ video, iframe {
     border-radius: 10px;
 }
 
-/* Estilização da Lista */
+/* Lista */
 ul {
     list-style-type: square;
     display: inline-block;
@@ -113,11 +113,11 @@ tr:nth-child(even) {
 MECANISMO DE AVALIAÇÃO METACOGNITIVA
 
 1. Desafio Técnico:
-Para mim a regra mais CSS mais difícil de aplicar foi ir aprendendo os códigos que até agora ainda nao conseguir bem decorar todos, nem perceber completamente mas ao pesquisar fui conseguindo fazer e aprender coisas novas que deixavam o site mais atrativo.
+Para mim a regra CSS mais difícil de aplicar foi ir aprendendo os códigos que até agora ainda não conseguir bem decorar todos, nem perceber completamente mas ao pesquisar fui conseguindo fazer e aprender coisas novas que deixavam o site mais atrativo.
 
 2. Correção de Sintaxe:
-O meu erro mais comum foi a introdução das imagens, porque ou não estavam no formato correto ou não tinha de ir fazendo várias tentativas até conseguir introduzir a imagem, o que com o vídeo por acaso foi mais facilitado.
+O meu erro mais comum foi na introdução das imagens, porque ou não estavam no formato correto ou tinha de ir fazendo várias tentativas erro até conseguir introduzir a imagem, o que com o vídeo por acaso foi mais facilitado.
 
 3. Autoria:
-O atributo "src" (abreviatura de "source") define o caminho e o nome do ficheiro (de imagem ou vídeo) que o navegador deve procurar na pasta do projeto para apresentar na página web.
+O "src" define o caminho e o nome do ficheiro, de uma imagem ou vídeo, que o navegador deve procurar na pasta do projeto para apresentar na página web.
 */
